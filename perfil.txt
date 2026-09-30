@@ -1,1 +1,2 @@
 "Marc Wilhelm Schaub García - Estudiante de ingeniería." 
+"Actualización: Pruebas de Git completadas." 
